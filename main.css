@@ -1,8 +1,18 @@
+:root {
+        --text-color: blue
+      }
+
 #AB {
-    width: 10%;
-    height: 10%;
+    width: 10rem;
+    height: 7rem;
 }
 #A1 {
     color: red;
-    i
+    
 }
+ 
+ #b1{
+
+    color: var(--text-color);
+
+ }
